@@ -1,0 +1,56 @@
+html, body{
+    height:100%;
+    width:100%;
+    background: url(img/bois.jpg) no-repeat center fixed;
+    background-size: cover;
+    
+    }
+    
+    .navbar{
+        padding: 8px;
+        font-family: Chewy;
+        
+    }
+    .navbar-nav li{
+    padding-right: 20px;
+    }
+    
+    
+    .card-title{
+    font-family: Chewy;
+    text-align: center;
+    
+    }
+    
+    .title{
+    font-family: Chewy;
+    
+    }
+    
+    .display-4 {
+    text-align: center;
+    font-family: Chewy;
+    
+    }
+
+    footer {
+        background-color: #747474;
+        color: #fff;
+     }
+        footer .footer {
+          padding-top: 30px;
+          padding-bottom: 30px; }
+          footer .footer img {
+            width: 200px; }
+          footer .footer .list {
+            list-style-type: none; }
+            footer .footer .list a {
+              text-decoration: none;
+              color: #fff; }
+          footer .footer .text {
+            padding-top: 20px; }
+            .list-group-item{
+
+                font-family: Chewy;
+            }
+

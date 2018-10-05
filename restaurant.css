@@ -1,0 +1,54 @@
+html, body{
+    height:100%;
+    width:100%;
+    background: url(img/bois.jpg) no-repeat center fixed;
+    background-size: cover;
+    
+    }
+    
+    .navbar{
+        padding: 8px;
+        font-family: Chewy;
+        
+    }
+    .navbar-nav li{
+    padding-right: 20px;
+    }
+
+    .section-cards {
+        width: 100%;
+        padding-bottom: 50px; }
+        .section-cards .cards {
+          padding-top: 50px; }
+          .section-cards .cards .card-title {
+            padding-top: 15px;
+            padding-left: 15px;
+            color: black;
+            font-family: Chewy;
+            text-align: center;
+            font-weight: bold; }
+          .section-cards .cards .card-text {
+            padding: 15px; }
+          .section-cards .cards .card-footer {
+            color: #fff; }
+      
+            .day , .card-day{
+text-align: center;
+
+            }
+
+    footer {
+        background-color: #747474;
+        color: #fff; }
+        footer .footer {
+          padding-top: 30px;
+          padding-bottom: 30px; }
+          footer .footer img {
+            width: 200px; }
+          footer .footer .list {
+            list-style-type: none; }
+            footer .footer .list a {
+              text-decoration: none;
+              color: #fff; }
+          footer .footer .text {
+            padding-top: 20px; }
